@@ -51,4 +51,5 @@ Contact the author of the paper: [luca.stradiotti@kuleuven.be](mailto:luca.strad
 ## References
 
 [1] Han, Songqiao, et al. "Adbench: Anomaly detection benchmark." Advances in Neural Information Processing Systems 35 (2022): 32142-32159.
+
 [2] Stradiotti, Luca, Lorenzo Perini, and Jesse Davis. "Semi-Supervised Isolation Forest for Anomaly Detection." Proceedings of the 2024 SIAM International Conference on Data Mining (SDM). Society for Industrial and Applied Mathematics, 2024.
